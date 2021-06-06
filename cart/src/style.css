@@ -1,0 +1,6 @@
+#cartContainer {
+  margin-top: 20px;
+  border-top: 3px dotted red;
+  padding-top: 30px;
+  width: 300px;
+}
